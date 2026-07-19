@@ -14,6 +14,7 @@ PACKAGES = [
     "git:github.com/obra/superpowers",
     "npm:pi-setup-custom-providers",
     "npm:pi-mcp-adapter",
+    "npm:@onlinechefgroep/pi-agent-orchestrator",
 ]
 
 
